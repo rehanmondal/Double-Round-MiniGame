@@ -113,21 +113,3 @@ if score > 2:
 
 else:
     print("Score Not Satisfied !Try again !! \n")
-
-    # print("Here's the Last Level !")  # ekhan theke next file a
-    # choice_3= input("Want to play Next round Now ? Press ( Y / N ) - ")
-    # if choice_3.casefold()=='y':  # choice for round 3
-    #     print("~~~~~~~~~~~~~~~~~ ROUND 3 ~~~~~~~~~~~~~~~~~~~~~~~~")
-
-    #     print('''\nInstruction : Answer 5 questions and Correct minimum 3 to Win The GAME ''')
-
-    #     print("\n--------------  ALL THE BEST   --------------\n")
-
-    #     score_3=0
-    #     def thirdRound():
-    #         pass
-    #     # quiz=True
-    #     # while quiz:  # quiz body
-    #     thirdRound()
-    # else:
-    #     print("Okay Not yet but , Come back soon ! ")
